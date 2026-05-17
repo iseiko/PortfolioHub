@@ -12,6 +12,8 @@ Repositório destinado aos meus projetos acadêmicos e pessoais.
 ## Projetos
 ### Big O analysis
 
+- https://github.com/iseiko/Big-O-complexity-analysis-regarding-n-and-n-log-n-algorithms-.git
+
 ### Site pessoal
 Site pessoal feito para a materia de bootcamp
 
