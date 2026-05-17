@@ -12,6 +12,19 @@ header {
     text-align: center;
 }
 
+.socials {
+    margin-top: 10px;
+}
+
+.socials a {
+    color: #fff;
+    margin: 0 8px;
+    text-decoration: none;
+    padding: 6px 10px;
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 6px;
+}
+
 section {
     padding: 30px;
 }
@@ -21,4 +34,13 @@ section {
     padding: 15px;
     margin-top: 15px;
     border-radius: 10px;
+}
+
+@media (max-width: 600px) {
+    header {
+        padding: 20px;
+    }
+    .projeto {
+        padding: 12px;
+    }
 }
