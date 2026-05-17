@@ -1,23 +1,13 @@
 # PortfolioHUB
 
-## Sobre
-Repositório destinado aos meus projetos acadêmicos e pessoais.
+Repositório com projetos acadêmicos e pessoais.
 
-## Tecnologias
-- HTML
-- CSS
-- JavaScript
-- Git
-
-## Projetos
-### Big O analysis
-
-- https://github.com/iseiko/Big-O-complexity-analysis-regarding-n-and-n-log-n-algorithms-.git
-
-### Site pessoal
-Site pessoal feito para a materia de bootcamp
+## Projeto desta entrega (passo 4)
+- **Site pessoal**: `/projetos-academicos/site-pessoal`
+- Execução local: abra o arquivo `index.html` no navegador.
+- Deploy (GitHub Pages): após merge, ativar em **Settings → Pages → Branch: main / Folder: / (root)**.
+- URL do Pages (após ativar): `https://iseiko.github.io/PortfolioHub/`
 
 ## Contato
-- LinkedIn: www.linkedin.com/in/kauan-silva-25009035a
+- LinkedIn: https://www.linkedin.com/in/kauan-silva-25009035a
 - GitHub: https://github.com/iseiko
-
