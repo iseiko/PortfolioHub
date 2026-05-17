@@ -10,13 +10,12 @@ Repositório destinado aos meus projetos acadêmicos e pessoais.
 - Git
 
 ## Projetos
-### Calculadora
-Descrição do projeto.
+### Big O analysis
 
 ### Site pessoal
-Descrição do projeto.
+Site pessoal feito para a materia de bootcamp
 
 ## Contato
-LinkedIn:
-GitHub:
+LinkedIn: www.linkedin.com/in/kauan-silva-25009035a
+GitHub: https://github.com/iseiko
 
