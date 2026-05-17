@@ -16,6 +16,6 @@ Repositório destinado aos meus projetos acadêmicos e pessoais.
 Site pessoal feito para a materia de bootcamp
 
 ## Contato
-LinkedIn: www.linkedin.com/in/kauan-silva-25009035a
-GitHub: https://github.com/iseiko
+- LinkedIn: www.linkedin.com/in/kauan-silva-25009035a
+- GitHub: https://github.com/iseiko
 
